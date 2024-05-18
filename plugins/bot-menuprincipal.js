@@ -46,7 +46,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ││📇 *Description:* Bot - JavaScript
 ││🐢 *Versión:* ${vs}
 ││🌹 *Main:* index.js
-││🌦 *Creador:* あ ᴅɪᴇɢᴏ あ
+││🌦 *Creador:*𝚁𝚎𝚢𝚎𝚜 𝚘𝚏𝚌
 │╰─────────────────
 ╰─ - ✦⢄⢁✩*⢄⢁✧ ----- ✦ -----✦ ---
 
