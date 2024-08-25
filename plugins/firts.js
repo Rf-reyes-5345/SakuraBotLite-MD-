@@ -13,7 +13,7 @@ await m.reply(`👋 Hola ${username}¡!
 *🚩 Nota:* No Envié Spam Al Bot!
 📇 Escriba !menu Para Ver Los Comandos Que Dispongo!
 
-*💧 Si Tienes Duda O Sugerencia Contacta A Mi Creador: 💚*
+*💧 Si Tienes Duda O Sugerencia Contacta A Mi Creadora: 💚*
 💖 +591 75409126 💜
 
 *🧿 Escribe !grupos Para Ver Los Grupos Oficiales Del Bot 🔮*
