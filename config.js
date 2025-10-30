@@ -10,6 +10,9 @@ import { es } from "./lib/idiomas/total-idiomas.js"
 
 global.botnumber = ""
 global.confirmCode = ""
+global.MONGO_URI = 'mongodb+srv://usuario:contraseña@cluster0.mongodb.net/nombreBD?retryWrites=true&w=majority';
+global.OPENAI_API_KEY = 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+global.SOME_OTHER_API_KEY = 'tu_otro_api_key_aqui';
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
