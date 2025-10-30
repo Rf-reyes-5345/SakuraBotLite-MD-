@@ -1,6 +1,6 @@
 > 🚩🧿Versión Del Bot: 1.0.7
 
-### Sakura : Bot - Lite - MD pkmnn🌸
+### Sakura : Bot - Lite - MD 🌸
 <p align="center">
 <img src="https://telegra.ph/file/9379ac50c5285dc976e2e.png" alt="Bot-WhatsApp" width="900"/>
 </p>
